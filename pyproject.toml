@@ -1,0 +1,8 @@
+[project]
+name = "affixio-product-passport-verifier"
+version = "0.1.0"
+description = "A simulated product-passport verifier for authenticity and provenance evidence."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
